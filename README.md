@@ -6,13 +6,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, C++, Java],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React, angular"],
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node"],
       },
-      mobile: ["Android"]
+      mobile: ["Android, Flutter"]
    },
    currentOccupation: ["first year of university, open for projects"],
    challenge: "I want to make a lot of project.",
