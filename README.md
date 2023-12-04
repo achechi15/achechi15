@@ -3,13 +3,12 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, C++, Java],
+   code: [Javascript, HTML, CSS, C++, Java, Python],
    technologies: {
       frontEnd: {
-         js: ["React, angular"],
+         js: ["React, Angular"],
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node"],
       },
       mobile: ["Android, Flutter"]
@@ -28,12 +27,9 @@ const aboutMe = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Google Developer Student Club
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about nothing
+- 📫 How to reach me: amoncal@upv.edu.es
 -->
