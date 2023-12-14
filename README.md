@@ -14,7 +14,7 @@ const aboutMe = {
       mobile: ["Android, Flutter"]
    },
    currentOccupation: ["first year of university, open for projects"],
-   challenge: "I want to make a lot of project.",
+   challenge: "I want to make a lot of projects.",
 };
 ```
 </br></br>
