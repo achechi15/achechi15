@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, C++, Java, Python],
+   code: [Javascript, HTML, CSS, C++, Java, Python, Dart],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -11,7 +11,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node"],
       },
-      mobile: ["Android, Flutter"]
+      mobile: ["Android"]
    },
    currentOccupation: ["first year of university, open for projects"],
    challenge: "I want to make a lot of projects.",
