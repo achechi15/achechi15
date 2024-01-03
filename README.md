@@ -11,7 +11,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node"],
       },
-      mobile: ["Android"]
+      mobile: ["Android, flutter"]
    },
    currentOccupation: ["first year of university, open for projects."],
    challenge: "I want to make a lot of projects.",
