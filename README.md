@@ -13,7 +13,7 @@ const aboutMe = {
       },
       mobile: ["Android, flutter"]
    },
-   currentOccupation: ["first year of university, open for projects."],
+   currentOccupation: ["first year of university."],
    challenge: "I want to make a lot of projects.",
 };
 ```
